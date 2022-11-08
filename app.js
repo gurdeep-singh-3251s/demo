@@ -23,10 +23,3 @@ function openForm() {
 function closeForm() {
   document.getElementById("myForm").style.display = "none";
 }
-
-
-
-function onclick(){
-  let html = "";
-  html
-}
